@@ -27,7 +27,7 @@ O sistema possui regras automáticas para garantir a integridade da agenda:
 
 1.  **Clonar o repositório:**
     ```bash
-    git clone [https://github.com/nw02/agendamento-barbearia-backend.git](https://github.com/nw02/agendamento-barbearia-backend.git)
+    git clone https://github.com/nw02/agendamento-barbearia-backend.git
     ```
 2.  **Entrar na pasta do projeto:**
     ```bash
