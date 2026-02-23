@@ -11,7 +11,7 @@ Esta é uma API REST desenvolvida com **Spring Boot** para gerenciamento de agen
 * **Jakarta Validation**
 * **Maven**
 
-## 🛠️ Destaques Técnicos
+## Destaques Técnicos
 
 ### 1. Tratamento Global de Erros (Global Exception Handler)
 Utilizei `@ControllerAdvice` para centralizar o tratamento de erros da aplicação.
